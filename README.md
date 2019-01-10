@@ -26,7 +26,7 @@ These files configure the virtual machine and install all the tools needed to ru
 1. Download the database setup: [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 1. Unzip the data to get the newsdata.sql file.
 1. Put the newsdata.sql file into the vagrant directory
-1. Download this project: [log analysis]()
+1. Download this project: [log analysis](https://github.com/avi1245/log_analysis.git)
 1. Upzip as needed and copy all files into the vagrant directory into a folder called log_analysis
 #### Start the Virtual Machine:
 1. Open Terminal and navigate to the project folders we setup above.
